@@ -12,3 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+//Depois desse comando começa a criar as programações JAVA//
+System.out.println("Hello Word");

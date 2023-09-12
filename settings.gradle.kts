@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "test1"
 include(":app")
-include(":paginalogin")
